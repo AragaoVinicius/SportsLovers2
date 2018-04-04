@@ -1,7 +1,8 @@
-
 {
     "require": {
-        "ext-gd": "*"
-    }
+        "monolog/monolog": "1.0.*",
+        "php": "7.0.28",
+        "ext-mcrypt": "^7.0"
+    },
+    "minimum-stability": "dev"
 }
-
